@@ -350,8 +350,7 @@ export default function Home() {
 
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Crypto Devs!</h1>
-          <div className={styles.description}>Welcome to the DAO!</div>
+          <h1 className={styles.title}>Welcome to Crypto Devs DAO!</h1>
           <div className={styles.description}>
             Your CryptoDevs NFT Balance: <strong>{nftBalance}</strong>
             <br />
